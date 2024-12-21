@@ -1,6 +1,4 @@
 
-![gym-app-logo](https://github.com/ryangmurphy/gym-app/assets/137011288/a9557327-75d3-457d-aed2-5b9b0e75e658)
-
 # Gym App Generator
 
 The Anime Gym Workout Generator is a user-friendly application designed to help fitness enthusiasts and anime fans to plan effective and personalized workout routines. Whether you're a beginner looking to establish a fitness routine or a seasoned gym-goer seeking fresh workout ideas, this application has you covered. The reason why I chose to do a anime themed gym app instead of normal gym application is because lots of anime fans go to the gym.
